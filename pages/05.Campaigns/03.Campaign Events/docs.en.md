@@ -75,6 +75,10 @@ If you try update company name, then action will add new or existed company with
 
 The opens email decision can only be attached to a send email action. Whatever email is sent through the action is the email used by the decision.
 
+### Clicks Email
+
+Trigger actions when an email is clicked. Connect a "Send Email" action to the top of this decision.
+
 ### Visits a page
 
 Note: The decision uses the OR operator between fields (Limit to Pages, URL, Referrer).
